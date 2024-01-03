@@ -21,3 +21,9 @@ To get a local copy up and running, follow these steps:
 ```bash
 git clone https://github.com/imasharc/ai_pathfinder.git
 ```
+
+2. Run setup script:
+
+```bash
+python ./setup.py
+```
